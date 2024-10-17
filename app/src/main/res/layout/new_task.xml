@@ -7,6 +7,9 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:background="@null"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="15dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:hint="New Task"/>
 
@@ -15,6 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:layout_alignParentEnd="true"
+        android:layout_margin="5dp"
         android:textSize="16sp"
         android:text="ADD"
         android:backgroundTint="@android:color/transparent"
